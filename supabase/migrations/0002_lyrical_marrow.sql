@@ -1,0 +1,1 @@
+ALTER TABLE "users" ALTER COLUMN "clerk_origin" SET DATA TYPE json;
